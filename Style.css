@@ -1,6 +1,9 @@
 body {
-	background-color: rgb(80, 0, 173);
-}
+        background-image: url('https://i.pinimg.com/736x/73/7d/e6/737de63b49d82e02bb59a5b7d82499b6.jpg?nii=t'); /* Replace with your image path */
+        background-repeat: no-repeat; /* Prevents the image from repeating */
+        background-size: cover; /* Scales the image to cover the entire background */
+        background-attachment: fixed; /* Fixes the background image during scrolling */
+      }
 
 .animate{
   font-family: Arial, sans-serif;
